@@ -7,7 +7,7 @@ Author: huxuan
 Email: i(at)huxuan.org
 """
 # the `appToken` for test.
-TOKEN = ${{ secrets.wx_Pusher_TOKEN }}
+TOKEN = ${{ secrets.WX_PUSHER_TOKEN }}
 
 # the `uids` for test, note that it should be a list.
 UIDS = [
